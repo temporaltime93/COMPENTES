@@ -1,4 +1,3 @@
-
 local player = game.Players.LocalPlayer
 local gui = Instance.new("ScreenGui")
 gui.Name = "PantallaCarga"
